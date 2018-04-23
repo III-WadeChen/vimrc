@@ -42,6 +42,7 @@ vim
 * [NERDTree](https://github.com/scrooloose/nerdtree): A tree-view file explorer.
 * [nerdtree-git-plugin](https://github.com/Xuyuanp/nerdtree-git-plugin): A extension on top of NERDTree providing git status flags in the file explorer.
 * [taglist](https://github.com/vim-scripts/taglist.vim): Provides overview of the structure of the code.
+* [fugitive.vim](https://github.com/tpope/vim-fugitive): A git wrapper
 
 ## Recommended Color Schemes
 
