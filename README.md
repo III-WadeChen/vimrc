@@ -18,7 +18,7 @@ git clone https://github.com/archer1609/vimrc.git
 
 <pre>
 cp vimrc/.vimrc ~
-cp vimrc/vim/* ~/.vim
+cp -r vimrc/.vim/* ~/.vim/
 </pre>
 
 3. (Optional) Update plugins
